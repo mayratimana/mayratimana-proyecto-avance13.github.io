@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*CSS Document*/
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icon-redes-header {
+    width: 20px;
+    margin: 10px 5px;
+}
